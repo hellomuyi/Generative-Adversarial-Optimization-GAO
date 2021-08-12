@@ -1,0 +1,28 @@
+/*
+  Explanation
+*/
+
+1. main.cpp和test_func.cpp为原作者编写
+2. main_modified.cpp和test_func_modified.cpp为本人修改（编译通过）
+
+它们区别如下：
+对照CEC2013文档（Liang J J, Qu B Y, Suganthan P N, et al. Problem definitions and evaluation criteria for the CEC 2013 special session on real-parameter optimization[J]. Computational Intelligence Laboratory, Zhengzhou University, Zhengzhou, China and Nanyang Technological University, Singapore, Technical Report, 2013, 201212(34): 281-295.），
+发现在原作者编写的CEC2013测试集，test_func.cpp中，
+1. 函数asyfunc编写错误，错误的函数体内(第1006行)，对x[i]<0的情况，xasy[i]未赋值为x[i]
+2. 函数dif_powers_func编写错误，第337行，C++中的“/”为整数除法而非浮点数除法
+3. 函数schaffer_F7_func编写不规范，第381行，调用asyfun的位置与文档不符，应该在二次rotated后使用asy，而非第二次rotate之前
+4. 函数schwefel_func的编写与文档不一致，文档中常量取值418.9829，代码中取值4.189828872724338e+002
+5. 函数grie_rosen_func编写错误，第768行，z[i]=y[i]+1; 此处逻辑错误；第777和第782行，cos内的表达式与文档不一致
+6. 由于上述错误，会导致使用这些错误函数的其他函数返回值错误
+
+而本人对上述问题进行了修正，具体见main_modified.cpp
+1. asyfunc，第1055行，进行修改
+2. dif_powers_func，第354行，进行修改
+3. 对上述3，没有对代码进行修改，和源代码一致
+4. 对上述4，没有对代码进行修改，和源代码一致
+5. grie_rosen_func，第795行，z[i] += 1;  第805和第811行，进行修改
+
+
+存疑：
+源代码和文档的不一致时，是文档错误还是源代码错误？
+私以为，应当是根据文档写代码才对，文档唯一，而实现文档的代码各有不同。

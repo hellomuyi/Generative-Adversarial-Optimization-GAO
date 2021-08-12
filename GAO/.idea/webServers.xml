@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d9a28fa7-48bb-464b-9222-4c725c420534" name="Dandelion">
+        <fileTransfer accessType="SFTP" host="172.18.166.208" port="22" sshConfigId="a39f8f13-b3dd-4d16-8e42-056cc654adcb" sshConfig="zizhen@172.18.166.208:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

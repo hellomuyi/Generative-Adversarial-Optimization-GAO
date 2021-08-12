@@ -1,0 +1,283 @@
+
+####################################################################################################
+2021-03-19 23:22:46
+####################################################################################################
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1717.2476 best_dif=617.24765 time=0.04 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1408.7345 best_dif=308.73452 time=27.15 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1402.3177 best_dif=302.31772 time=53.31 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1385.7334 best_dif=285.73341 time=78.49 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1374.837 best_dif=274.83696 time=103.96 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1363.9256 best_dif=263.92556 time=129.50 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1356.5574 best_dif=256.55743 time=154.75 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1352.2348 best_dif=252.23476 time=180.12 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1348.7209 best_dif=248.72093 time=205.34 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1347.6388 best_dif=247.63883 time=231.07 step_len=0.0015811
+fold:0 func_name:CEC2013[25] optimal=1100 best_v=1347.4409 best_dif=247.4409 time=256.21
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1606.7952 best_dif=506.79521 time=0.03 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1400.7859 best_dif=300.78589 time=25.43 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1391.3615 best_dif=291.36154 time=50.82 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1379.812 best_dif=279.81196 time=76.13 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1371.5882 best_dif=271.58823 time=101.60 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1362.0413 best_dif=262.04134 time=126.82 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1355.7859 best_dif=255.78586 time=152.12 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1351.7967 best_dif=251.79672 time=177.45 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1348.4666 best_dif=248.46655 time=202.86 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1347.3767 best_dif=247.37667 time=227.94 step_len=0.0015811
+fold:1 func_name:CEC2013[25] optimal=1100 best_v=1347.1803 best_dif=247.18027 time=253.58
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1566.2752 best_dif=466.27517 time=0.03 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1403.2043 best_dif=303.20433 time=25.53 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1385.6648 best_dif=285.66481 time=50.86 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1372.4755 best_dif=272.47548 time=76.76 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1362.0762 best_dif=262.07622 time=102.10 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1354.3781 best_dif=254.37809 time=127.43 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1346.6462 best_dif=246.64616 time=152.74 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1341.3054 best_dif=241.30536 time=178.36 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1338.6017 best_dif=238.60172 time=203.82 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1337.4654 best_dif=237.46535 time=229.02 step_len=0.0015811
+fold:2 func_name:CEC2013[25] optimal=1100 best_v=1337.2702 best_dif=237.27019 time=254.24
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1532.8916 best_dif=432.89156 time=0.03 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1401.126 best_dif=301.12598 time=25.41 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1383.5287 best_dif=283.52872 time=50.89 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1373.8699 best_dif=273.86992 time=76.59 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1360.2712 best_dif=260.27123 time=101.79 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1351.4144 best_dif=251.41436 time=127.48 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1344.2447 best_dif=244.24469 time=152.78 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1339.9263 best_dif=239.92627 time=177.83 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1336.8831 best_dif=236.88308 time=203.15 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1335.9105 best_dif=235.9105 time=228.34 step_len=0.0015811
+fold:3 func_name:CEC2013[25] optimal=1100 best_v=1335.7372 best_dif=235.73724 time=253.42
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1676.9038 best_dif=576.90385 time=0.03 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1393.772 best_dif=293.77204 time=25.55 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1387.3378 best_dif=287.33776 time=50.73 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1377.2576 best_dif=277.25759 time=76.08 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1366.8926 best_dif=266.89262 time=94.49 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1356.9351 best_dif=256.93507 time=110.81 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1349.1272 best_dif=249.12724 time=129.49 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1344.5636 best_dif=244.56356 time=144.58 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1341.9405 best_dif=241.94049 time=159.63 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1340.8283 best_dif=240.82834 time=173.91 step_len=0.0015811
+fold:4 func_name:CEC2013[25] optimal=1100 best_v=1340.6451 best_dif=240.64514 time=188.44
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1515.5018 best_dif=415.50182 time=0.02 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1402.7636 best_dif=302.76356 time=14.98 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1392.5372 best_dif=292.53721 time=29.70 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1373.7255 best_dif=273.72552 time=44.52 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1358.3814 best_dif=258.38138 time=59.34 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1347.1896 best_dif=247.18959 time=73.08 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1340.8026 best_dif=240.80256 time=87.88 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1335.7415 best_dif=235.7415 time=111.40 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1332.7684 best_dif=232.76843 time=130.80 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1331.6794 best_dif=231.67941 time=145.63 step_len=0.0015811
+fold:5 func_name:CEC2013[25] optimal=1100 best_v=1331.4763 best_dif=231.47629 time=160.48
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1651.3825 best_dif=551.38246 time=0.01 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1401.8275 best_dif=301.82754 time=22.95 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1387.2712 best_dif=287.2712 time=49.75 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1377.303 best_dif=277.30302 time=76.24 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1367.4401 best_dif=267.44008 time=94.81 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1360.9398 best_dif=260.93979 time=112.60 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1354.1183 best_dif=254.11831 time=139.18 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1348.7515 best_dif=248.75153 time=163.34 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1345.966 best_dif=245.96604 time=187.84 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1344.7056 best_dif=244.70564 time=204.06 step_len=0.0015811
+fold:6 func_name:CEC2013[25] optimal=1100 best_v=1344.4841 best_dif=244.48407 time=219.02
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1602.8771 best_dif=502.87712 time=0.02 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1403.3135 best_dif=303.31345 time=15.24 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1387.2074 best_dif=287.20742 time=30.52 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1372.9119 best_dif=272.91188 time=44.73 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1362.7637 best_dif=262.76373 time=60.72 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1354.7299 best_dif=254.72988 time=75.77 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1348.3352 best_dif=248.33519 time=93.37 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1344.0987 best_dif=244.09866 time=117.48 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1341.4892 best_dif=241.4892 time=142.11 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1340.4838 best_dif=240.48385 time=168.53 step_len=0.0015811
+fold:7 func_name:CEC2013[25] optimal=1100 best_v=1340.2913 best_dif=240.29128 time=195.33
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1649.6668 best_dif=549.66676 time=0.04 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1404.0115 best_dif=304.01151 time=26.15 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1388.0177 best_dif=288.01765 time=52.29 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1384.1997 best_dif=284.19968 time=78.40 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1364.8757 best_dif=264.87569 time=104.00 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1356.8518 best_dif=256.85182 time=130.50 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1347.6109 best_dif=247.61091 time=158.37 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1343.442 best_dif=243.44196 time=180.20 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1340.8376 best_dif=240.83765 time=194.29 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1339.7035 best_dif=239.70355 time=214.30 step_len=0.0015811
+fold:8 func_name:CEC2013[25] optimal=1100 best_v=1339.4928 best_dif=239.49281 time=236.25
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1596.0492 best_dif=496.04921 time=0.03 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1399.4211 best_dif=299.42107 time=24.21 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1390.6212 best_dif=290.62117 time=45.13 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1374.1071 best_dif=274.10707 time=65.32 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1361.6883 best_dif=261.6883 time=90.20 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1354.6204 best_dif=254.62042 time=114.52 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1350.2964 best_dif=250.29642 time=138.26 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1345.9995 best_dif=245.99946 time=162.30 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1343.1319 best_dif=243.1319 time=181.57 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1342.1971 best_dif=242.19711 time=195.70 step_len=0.0015811
+fold:9 func_name:CEC2013[25] optimal=1100 best_v=1342.012 best_dif=242.01201 time=211.23
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1555.6147 best_dif=455.61471 time=0.01 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1396.2129 best_dif=296.21294 time=13.34 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1392.7337 best_dif=292.73366 time=28.95 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1380.0445 best_dif=280.04453 time=47.80 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1364.2632 best_dif=264.26316 time=66.02 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1356.4019 best_dif=256.40188 time=87.08 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1348.5489 best_dif=248.54895 time=104.79 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1343.319 best_dif=243.31896 time=126.59 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1341.0273 best_dif=241.02728 time=144.05 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1339.9127 best_dif=239.91275 time=169.52 step_len=0.0015811
+fold:10 func_name:CEC2013[25] optimal=1100 best_v=1339.729 best_dif=239.72904 time=187.69
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1595.8315 best_dif=495.83146 time=0.02 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1401.3034 best_dif=301.3034 time=22.06 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1389.7641 best_dif=289.76406 time=38.03 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1381.4058 best_dif=281.40582 time=61.08 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1372.03 best_dif=272.02999 time=80.70 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1364.6109 best_dif=264.61091 time=100.45 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1356.2882 best_dif=256.28819 time=118.66 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1351.5777 best_dif=251.57773 time=137.03 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1348.7672 best_dif=248.76724 time=152.34 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1347.6498 best_dif=247.64977 time=167.83 step_len=0.0015811
+fold:11 func_name:CEC2013[25] optimal=1100 best_v=1347.5082 best_dif=247.50822 time=183.17
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1513.3669 best_dif=413.36689 time=0.02 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1401.0744 best_dif=301.07443 time=20.81 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1381.0036 best_dif=281.00363 time=39.73 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1368.435 best_dif=268.43501 time=60.25 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1354.0454 best_dif=254.04544 time=81.99 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1347.1667 best_dif=247.16666 time=106.86 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1337.3811 best_dif=237.38115 time=124.25 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1334.0953 best_dif=234.09525 time=144.47 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1331.0688 best_dif=231.06884 time=163.90 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1330.0808 best_dif=230.08085 time=182.10 step_len=0.0015811
+fold:12 func_name:CEC2013[25] optimal=1100 best_v=1329.9066 best_dif=229.90658 time=203.43
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1553.4975 best_dif=453.49754 time=0.03 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1405.3841 best_dif=305.38414 time=17.12 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1390.0308 best_dif=290.03083 time=38.12 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1371.2315 best_dif=271.23151 time=54.59 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1361.8535 best_dif=261.85347 time=77.05 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1350.435 best_dif=250.43504 time=97.05 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1342.2252 best_dif=242.22523 time=113.05 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1337.3444 best_dif=237.34441 time=137.14 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1334.1282 best_dif=234.12821 time=152.51 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1332.9179 best_dif=232.91787 time=174.15 step_len=0.0015811
+fold:13 func_name:CEC2013[25] optimal=1100 best_v=1332.6902 best_dif=232.6902 time=191.10
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1483.8694 best_dif=383.86942 time=0.01 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1388.8741 best_dif=288.87414 time=20.15 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1382.5242 best_dif=282.52416 time=48.91 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1375.359 best_dif=275.35904 time=70.62 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1367.362 best_dif=267.36203 time=89.84 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1358.756 best_dif=258.75597 time=110.15 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1354.1536 best_dif=254.15361 time=134.85 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1348.968 best_dif=248.96799 time=151.68 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1346.4027 best_dif=246.40267 time=171.62 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1345.3871 best_dif=245.38707 time=189.91 step_len=0.0015811
+fold:14 func_name:CEC2013[25] optimal=1100 best_v=1345.1974 best_dif=245.1974 time=210.20
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1572.3389 best_dif=472.33888 time=0.03 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1399.0624 best_dif=299.06237 time=17.53 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1390.2852 best_dif=290.2852 time=38.94 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1376.0912 best_dif=276.09115 time=53.96 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1363.9686 best_dif=263.96861 time=73.89 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1354.0512 best_dif=254.05124 time=97.08 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1348.7526 best_dif=248.75262 time=117.79 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1344.6857 best_dif=244.68569 time=133.71 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1342.1189 best_dif=242.11888 time=154.07 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1340.9632 best_dif=240.96324 time=167.85 step_len=0.0015811
+fold:15 func_name:CEC2013[25] optimal=1100 best_v=1340.7591 best_dif=240.75909 time=181.92
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1739.9702 best_dif=639.9702 time=0.01 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1391.9198 best_dif=291.91981 time=14.47 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1385.6654 best_dif=285.66537 time=28.97 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1375.8433 best_dif=275.84335 time=43.03 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1366.7726 best_dif=266.7726 time=57.18 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1358.3727 best_dif=258.37271 time=71.30 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1351.6599 best_dif=251.65986 time=85.99 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1348.0239 best_dif=248.02394 time=99.66 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1345.251 best_dif=245.25101 time=113.55 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1344.1131 best_dif=244.11308 time=127.87 step_len=0.0015811
+fold:16 func_name:CEC2013[25] optimal=1100 best_v=1343.9315 best_dif=243.93154 time=141.68
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1703.4321 best_dif=603.43209 time=0.02 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1401.9463 best_dif=301.94629 time=13.76 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1385.2221 best_dif=285.22215 time=27.22 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1378.3022 best_dif=278.30219 time=38.84 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1368.7855 best_dif=268.78555 time=50.43 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1359.4526 best_dif=259.45255 time=61.61 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1352.5958 best_dif=252.59575 time=72.99 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1347.9206 best_dif=247.92059 time=85.43 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1345.3824 best_dif=245.38239 time=96.53 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1344.103 best_dif=244.10295 time=105.46 step_len=0.0015811
+fold:17 func_name:CEC2013[25] optimal=1100 best_v=1343.8791 best_dif=243.87909 time=113.94
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1839.1998 best_dif=739.19983 time=0.01 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1403.8441 best_dif=303.84415 time=8.75 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1390.1012 best_dif=290.10119 time=17.44 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1380.2764 best_dif=280.27639 time=26.14 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1372.9913 best_dif=272.99127 time=34.95 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1366.6746 best_dif=266.67457 time=43.44 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1359.5295 best_dif=259.52951 time=51.89 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1354.3429 best_dif=254.34286 time=60.45 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1351.5595 best_dif=251.55953 time=68.99 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1350.5006 best_dif=250.50063 time=77.69 step_len=0.0015811
+fold:18 func_name:CEC2013[25] optimal=1100 best_v=1350.2526 best_dif=250.2526 time=86.71
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1613.9819 best_dif=513.98192 time=0.01 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1402.603 best_dif=302.60296 time=8.87 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1381.8177 best_dif=281.81769 time=17.68 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1370.5051 best_dif=270.5051 time=26.31 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1360.7463 best_dif=260.74634 time=34.96 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1347.6699 best_dif=247.66985 time=43.72 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1338.5433 best_dif=238.54329 time=52.26 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1334.4921 best_dif=234.4921 time=60.78 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1331.6795 best_dif=231.67951 time=69.35 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1330.4631 best_dif=230.46306 time=78.01 step_len=0.0015811
+fold:19 func_name:CEC2013[25] optimal=1100 best_v=1330.2632 best_dif=230.26315 time=86.43
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1678.1143 best_dif=578.1143 time=0.01 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1408.1029 best_dif=308.10287 time=8.58 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1394.9137 best_dif=294.91369 time=17.06 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1381.9658 best_dif=281.96576 time=25.72 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1372.457 best_dif=272.45704 time=34.34 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1364.3241 best_dif=264.3241 time=42.94 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1356.5136 best_dif=256.51357 time=51.65 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1352.9484 best_dif=252.94841 time=60.42 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1350.5233 best_dif=250.5233 time=68.97 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1349.2204 best_dif=249.2204 time=77.48 step_len=0.0015811
+fold:20 func_name:CEC2013[25] optimal=1100 best_v=1349.0371 best_dif=249.03709 time=86.01
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1602.04 best_dif=502.04004 time=0.01 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1408.1369 best_dif=308.13689 time=8.67 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1387.6187 best_dif=287.61868 time=17.38 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1379.6032 best_dif=279.60324 time=25.88 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1368.5948 best_dif=268.5948 time=34.61 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1356.7978 best_dif=256.79779 time=43.11 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1348.2232 best_dif=248.22318 time=51.60 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1343.9121 best_dif=243.91208 time=60.15 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1340.9658 best_dif=240.96582 time=68.75 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1339.7809 best_dif=239.78087 time=77.29 step_len=0.0015811
+fold:21 func_name:CEC2013[25] optimal=1100 best_v=1339.6004 best_dif=239.60042 time=85.59
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1613.4832 best_dif=513.48318 time=0.01 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1394.1863 best_dif=294.18628 time=8.45 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1381.666 best_dif=281.66605 time=17.09 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1370.2772 best_dif=270.27721 time=25.95 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1359.8777 best_dif=259.87768 time=34.55 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1352.7948 best_dif=252.79478 time=42.99 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1346.546 best_dif=246.54604 time=51.52 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1341.6691 best_dif=241.66906 time=60.02 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1339.3215 best_dif=239.32152 time=68.47 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1338.402 best_dif=238.40198 time=77.08 step_len=0.0015811
+fold:22 func_name:CEC2013[25] optimal=1100 best_v=1338.1831 best_dif=238.18309 time=85.84
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1565.3908 best_dif=465.39082 time=0.01 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1408.9438 best_dif=308.9438 time=8.53 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1382.0585 best_dif=282.0585 time=17.14 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1372.621 best_dif=272.62097 time=25.85 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1363.3926 best_dif=263.39257 time=34.36 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1355.4952 best_dif=255.49518 time=42.99 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1350.7171 best_dif=250.71707 time=51.45 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1344.3991 best_dif=244.39908 time=60.09 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1341.5222 best_dif=241.52223 time=68.72 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1340.6479 best_dif=240.64794 time=77.24 step_len=0.0015811
+fold:23 func_name:CEC2013[25] optimal=1100 best_v=1340.4463 best_dif=240.4463 time=85.93
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1633.4986 best_dif=533.49857 time=0.01 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1411.9031 best_dif=311.9031 time=8.67 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1392.914 best_dif=292.91402 time=17.29 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1380.5441 best_dif=280.54406 time=25.81 step_len=10.044
+	validate epoch:4000 func_name:CEC2013[25] optimal=1100 best_v=1371.8767 best_dif=271.87668 time=34.31 step_len=5.0194
+	validate epoch:5000 func_name:CEC2013[25] optimal=1100 best_v=1364.0858 best_dif=264.08577 time=43.04 step_len=2.2097
+	validate epoch:6000 func_name:CEC2013[25] optimal=1100 best_v=1358.4608 best_dif=258.46083 time=51.60 step_len=0.80954
+	validate epoch:7000 func_name:CEC2013[25] optimal=1100 best_v=1354.5044 best_dif=254.50444 time=60.41 step_len=0.22183
+	validate epoch:8000 func_name:CEC2013[25] optimal=1100 best_v=1352.1406 best_dif=252.14057 time=69.00 step_len=0.035777
+	validate epoch:9000 func_name:CEC2013[25] optimal=1100 best_v=1350.8669 best_dif=250.86688 time=77.40 step_len=0.0015811
+fold:24 func_name:CEC2013[25] optimal=1100 best_v=1350.6419 best_dif=250.64185 time=86.32
+	validate epoch:   0 func_name:CEC2013[25] optimal=1100 best_v=1608.6047 best_dif=508.60467 time=0.01 step_len=50
+	validate epoch:1000 func_name:CEC2013[25] optimal=1100 best_v=1405.2698 best_dif=305.26979 time=8.70 step_len=31.122
+	validate epoch:2000 func_name:CEC2013[25] optimal=1100 best_v=1391.422 best_dif=291.42199 time=17.12 step_len=18.318
+	validate epoch:3000 func_name:CEC2013[25] optimal=1100 best_v=1381.4404 best_dif=281.44041 time=26.00 step_len=10.044
