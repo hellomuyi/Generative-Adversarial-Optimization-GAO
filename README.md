@@ -4,7 +4,7 @@
 
 ----  
 1. 改动如下：  
-    - 使用numpy库重写了[CEC2013](https://www.al-roomi.org/multimedia/CEC_Database/CEC2013/RealParameterOptimization/CEC2013_RealParameterOptimization_TechnicalReport.pdf)测试集，使之能运行通过  
+    - 使用numpy重写了[CEC2013](https://www.al-roomi.org/multimedia/CEC_Database/CEC2013/RealParameterOptimization/CEC2013_RealParameterOptimization_TechnicalReport.pdf)测试集，使之能运行通过  
     - 使用matplotlib可视化测试函数，并展示收敛过程  
     - 使用tkinter制作了GUI界面  
 2. 代码使用：  
